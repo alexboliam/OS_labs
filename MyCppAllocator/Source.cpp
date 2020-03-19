@@ -165,7 +165,7 @@ private:
 		// если следующий блок свободен, объединяем
 		if (block->next != nullptr && (block + block->size == block->next) && contains_block(free_blocks, block->next))
 		{
-			block = join_blocks(block->next, block);
+			block = join_blocks(block, block->next);
 		}
 	}
 	mem_block *join_blocks(mem_block *left, mem_block *right) {
@@ -201,7 +201,9 @@ int main() {
 	auto mem3 = allocator->mem_realloc(mem2, 5);
 	allocator->mem_dump();
 
-	
+	cout << endl << "Free block 1" << endl;
+	allocator->mem_free(mem1);
+	allocator->mem_dump();
 
 	system("pause");
 }
