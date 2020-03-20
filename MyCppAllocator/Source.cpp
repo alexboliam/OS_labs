@@ -6,7 +6,7 @@ using namespace std;
 
 class MyCppAllocator {
 
-	struct mem_block //тип блока
+	struct mem_block //структура как тип блока
 	{
 		unsigned char *ptr; //указатель на область в памяти
 		unsigned int size; //размер блока
