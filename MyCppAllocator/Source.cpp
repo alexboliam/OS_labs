@@ -11,7 +11,7 @@ class MyCppAllocator {
 		unsigned char *ptr; // указатель на область в памяти
 		unsigned int size; // размер блока
 		mem_block *next; // указатель на предыдущий блок
-		mem_block *prev; // указатель на следующий блок
+		mem_block *prev; // указатель на следующий блок 
 	};
 
 public:
