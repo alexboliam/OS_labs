@@ -1,0 +1,23 @@
+D:\KPI\3 курс\web\MyQueue\bin\Debug\netcoreapp2.1\MyQueue.deps.json
+D:\KPI\3 курс\web\MyQueue\bin\Debug\netcoreapp2.1\MyQueue.runtimeconfig.json
+D:\KPI\3 курс\web\MyQueue\bin\Debug\netcoreapp2.1\MyQueue.runtimeconfig.dev.json
+D:\KPI\3 курс\web\MyQueue\bin\Debug\netcoreapp2.1\MyQueue.dll
+D:\KPI\3 курс\web\MyQueue\bin\Debug\netcoreapp2.1\MyQueue.pdb
+D:\KPI\3 курс\web\MyQueue\obj\Debug\netcoreapp2.1\MyQueue.csprojAssemblyReference.cache
+D:\KPI\3 курс\web\MyQueue\obj\Debug\netcoreapp2.1\MyQueue.csproj.CoreCompileInputs.cache
+D:\KPI\3 курс\web\MyQueue\obj\Debug\netcoreapp2.1\MyQueue.AssemblyInfoInputs.cache
+D:\KPI\3 курс\web\MyQueue\obj\Debug\netcoreapp2.1\MyQueue.AssemblyInfo.cs
+D:\KPI\3 курс\web\MyQueue\obj\Debug\netcoreapp2.1\MyQueue.dll
+D:\KPI\3 курс\web\MyQueue\obj\Debug\netcoreapp2.1\MyQueue.pdb
+D:\KPI\3_course\OS\MyQueue\bin\Debug\netcoreapp2.1\MyQueue.deps.json
+D:\KPI\3_course\OS\MyQueue\bin\Debug\netcoreapp2.1\MyQueue.runtimeconfig.json
+D:\KPI\3_course\OS\MyQueue\bin\Debug\netcoreapp2.1\MyQueue.runtimeconfig.dev.json
+D:\KPI\3_course\OS\MyQueue\bin\Debug\netcoreapp2.1\MyQueue.dll
+D:\KPI\3_course\OS\MyQueue\bin\Debug\netcoreapp2.1\MyQueue.pdb
+D:\KPI\3_course\OS\MyQueue\obj\Debug\netcoreapp2.1\MyQueue.csprojAssemblyReference.cache
+D:\KPI\3_course\OS\MyQueue\obj\Debug\netcoreapp2.1\MyQueue.csproj.CoreCompileInputs.cache
+D:\KPI\3_course\OS\MyQueue\obj\Debug\netcoreapp2.1\MyQueue.AssemblyInfoInputs.cache
+D:\KPI\3_course\OS\MyQueue\obj\Debug\netcoreapp2.1\MyQueue.AssemblyInfo.cs
+D:\KPI\3_course\OS\MyQueue\obj\Debug\netcoreapp2.1\MyQueue.dll
+D:\KPI\3_course\OS\MyQueue\obj\Debug\netcoreapp2.1\MyQueue.pdb
+D:\KPI\3_course\OS\MyQueue\obj\Debug\netcoreapp2.1\MyQueue.genruntimeconfig.cache
