@@ -1,0 +1,4 @@
+D:\KPI\3_course\OS\MyCppAllocator\Debug\MyCppAllocator.exe
+D:\KPI\3_course\OS\MyCppAllocator\Debug\MyCppAllocator.pdb
+D:\KPI\3_course\OS\MyCppAllocator2\Debug\MyCppAllocator2.exe
+D:\KPI\3_course\OS\MyCppAllocator2\Debug\MyCppAllocator2.pdb
